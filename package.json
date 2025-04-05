@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "mport",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rishit-exe.github.io/portfolio/",
+  "homepage": "https://rishit-exe.github.io/mport/",
   "dependencies": {
     "@radix-ui/react-tooltip": "^1.1.8",
     "@testing-library/dom": "^10.4.0",
